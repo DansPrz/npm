@@ -1,0 +1,26 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DansPrz/npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DansPrz/npm/issues"
+  },
+  "homepage": "https://github.com/DansPrz/npm#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
